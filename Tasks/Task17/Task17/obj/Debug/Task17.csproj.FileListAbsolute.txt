@@ -1,0 +1,6 @@
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\bin\Debug\Task17.exe.config
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\bin\Debug\Task17.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\bin\Debug\Task17.pdb
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\obj\Debug\Task17.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\obj\Debug\Task17.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task17\Task17\obj\Debug\Task17.pdb

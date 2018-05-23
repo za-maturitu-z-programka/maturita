@@ -1,0 +1,6 @@
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\bin\Debug\Task23.exe.config
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\bin\Debug\Task23.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\bin\Debug\Task23.pdb
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\obj\Debug\Task23.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\obj\Debug\Task23.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task23\Task23\obj\Debug\Task23.pdb

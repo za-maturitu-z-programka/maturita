@@ -1,0 +1,6 @@
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\bin\Debug\Task16 - C_Sharp.exe.config
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\bin\Debug\Task16 - C_Sharp.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\bin\Debug\Task16 - C_Sharp.pdb
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\obj\Debug\Task16 - C_Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\obj\Debug\Task16 - C_Sharp.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task16 - C_Sharp\Task16 - C_Sharp\obj\Debug\Task16 - C_Sharp.pdb

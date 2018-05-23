@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523247053 source:c:\users\tomáš\desktop\prográmko maturita\task16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
+1527109190 source:c:\users\tomáš\desktop\prográmko maturita\task16 - ansi c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+

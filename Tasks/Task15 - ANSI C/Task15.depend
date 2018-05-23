@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523242041 source:c:\users\tomáš\desktop\prográmko maturita\task15\main.c
+	<stdio.h>
+	<stdlib.h>
+
