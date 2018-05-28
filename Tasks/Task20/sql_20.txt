@@ -1,0 +1,3 @@
+SELECT *
+FROM osoba AS o
+ORDER BY o.prijmeni DESC, o.jmeno DESC

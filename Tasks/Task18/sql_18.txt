@@ -1,0 +1,5 @@
+DELETE FROM osoba
+WHERE osoba.pracoviste_id = 10;
+
+INSERT INTO osoba (pracoviste_id, jmeno, prijmeni, vek, plat) 
+VALUES (11, "Josef", "Novák", 50, 30000);

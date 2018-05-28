@@ -1,0 +1,11 @@
+SELECT 
+	p.nazev AS nazev_pracoviste,
+   	p.umisteni AS umisteni_pracoviste,
+	COUNT(o.id) AS pocet_zamestnancu,
+	AVG(o.vek) AS prumerny_vek,
+	MAX(o.plat) AS maximalni_plat,
+	MIN(o.plat) AS minimalni_plat
+FROM osoba AS o
+INNER JOIN pracoviste AS p
+	ON p.id = o.pracoviste_id
+GROUP BY o.pracoviste_id;
