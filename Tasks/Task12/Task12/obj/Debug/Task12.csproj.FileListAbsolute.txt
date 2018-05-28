@@ -1,0 +1,10 @@
+C:\Users\luky\source\repos\Task12\Task12\bin\Debug\Task12.exe.config
+C:\Users\luky\source\repos\Task12\Task12\bin\Debug\Task12.exe
+C:\Users\luky\source\repos\Task12\Task12\bin\Debug\Task12.pdb
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.csprojResolveAssemblyReference.cache
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.Form1.resources
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.Properties.Resources.resources
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.csproj.GenerateResource.cache
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.csproj.CoreCompileInputs.cache
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.exe
+C:\Users\luky\source\repos\Task12\Task12\obj\Debug\Task12.pdb
