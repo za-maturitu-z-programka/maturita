@@ -1,0 +1,7 @@
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\bin\Debug\Task8.exe.config
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\bin\Debug\Task8.exe
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\bin\Debug\Task8.pdb
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\obj\Debug\Task8.exe
+C:\Users\luky\Documents\prog\Tasks\Task8\Task8\obj\Debug\Task8.pdb
