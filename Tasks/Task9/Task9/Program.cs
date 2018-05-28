@@ -23,18 +23,15 @@ namespace Task9
                 Console.WriteLine("Zadal(a) jste cestu k neexistujícímu souboru. Opakujte prosím akci.");
             }
 
-            using (FileStream fs = File.OpenRead(path))
+            using (StreamReader sr = new StreamReader(path))
             {
-                using (StreamReader sr = new StreamReader(path))
+                while ((line = sr.ReadLine()) != null)
                 {
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        chars += line.Length;
+                    chars += line.Length;
 
-                        line = Regex.Replace(line, @"\s+", " ");
-                        words += line.Count(f => f == ' ') + 1;
-                        lines++;
-                    }
+                    line = Regex.Replace(line, @"\s+", " ");
+                    words += line.Count(f => f == ' ') + 1;
+                    lines++;
                 }
             }
 

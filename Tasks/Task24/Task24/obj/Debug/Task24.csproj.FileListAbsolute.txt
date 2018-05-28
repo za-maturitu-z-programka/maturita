@@ -1,0 +1,6 @@
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\bin\Debug\Task24.exe.config
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\bin\Debug\Task24.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\bin\Debug\Task24.pdb
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\obj\Debug\Task24.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\obj\Debug\Task24.exe
+C:\Users\Tomáš\Desktop\Prográmko maturita\Task24\Task24\obj\Debug\Task24.pdb
